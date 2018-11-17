@@ -14,6 +14,7 @@
 [43]: #43-how-to-develop-in-hipe-modules
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwkirschenmann%2FHIPE.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwkirschenmann%2FHIPE?ref=badge_shield)
 ## [[..][1]] HIPE Hiearchic Image Processing Engine
 ##### Three watchwords into our world : TO BE A **FAST**, **SCALABLE** and **RESPONSIVE** software for **Computer Vision**...
 
@@ -84,3 +85,7 @@ Coming soon...
 
 ### 4.3 How to Develop in HIPE Modules
 If you want develop in HIPE. Please follow this tutorial to implement new node and data processing. [how to develop](wiki/Howto-Develop/HowTo-Develop.md)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwkirschenmann%2FHIPE.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwkirschenmann%2FHIPE?ref=badge_large)
